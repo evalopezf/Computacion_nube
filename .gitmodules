@@ -1,0 +1,15 @@
+[submodule "lab_4"]
+	path = lab_4
+	url = https://github.com/evalopezf/lab4-Git.git
+[submodule "lab_5"]
+	path = lab_5
+	url = https://github.com/evalopezf/lab5.git
+[submodule "lab_6"]
+	path = lab_6
+	url = https://github.com/evalopezf/lab6-singularity.git
+[submodule "lab_7"]
+	path = lab_7
+	url = https://github.com/evalopezf/lab-7.git
+[submodule "lab_8"]
+	path = lab_8
+	url = https://github.com/evalopezf/lab8.git
